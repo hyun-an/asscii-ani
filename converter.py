@@ -3,7 +3,7 @@ import numpy as np
 import os
 
 # Playing video from file:
-vid = cv2.VideoCapture('badringo.mp4')
+vid = cv2.VideoCapture('badapple.mp4')
 
 try:
     if not os.path.exists('data'):
