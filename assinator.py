@@ -59,6 +59,6 @@ def assify(newWidth=150):
         time.sleep(frames)
         os.system("clear")
 
-    
+
 os.system('resize -s 100 46')
 assify()
